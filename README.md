@@ -1,4 +1,11 @@
-# vue-enumbers
+# E numbers checker
+
+## API: [E-additives API](http://e-additives.vexelon.net/index.html)
+* An API helps getting information about E-numbers.
+
+## Hosting the project with Firebase
+* https://e-numbers-checker.web.app/
+
 
 ## Project setup
 ```
@@ -22,3 +29,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
